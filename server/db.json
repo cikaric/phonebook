@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "fjdddjK34u9",
+      "name": "Dejana Cikaric",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "mobile": "21545499648",
+      "email": "dejana@email.com"
+    },
+    {
+      "id": "fpweiuj83riGj",
+      "name": "Steva Stevic",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSizVC0B-8EVieGQqvY9QWIkTl4uNHW8l7-Oc2C084VWMVL0wm05GpK5inT8PEGkZWUEQs&usqp=CAU",
+      "mobile": "158948486",
+      "email": "steva@email.com"
+    },
+    {
+      "id": "fjdkfjK34u9",
+      "name": "Ana Anic",
+      "photo": "https://cdn-icons-png.flaticon.com/512/190/190664.png",
+      "mobile": "215545648",
+      "email": "ana@email.com"
+    },
+    {
+      "id": "fjeiruj83riG",
+      "name": "Pera Peric",
+      "photo": "https://www.pngitem.com/pimgs/m/22-220721_circled-user-male-type-user-colorful-icon-png.png",
+      "mobile": "1548454886",
+      "email": "pera@email.com"
+    }
+  ]
+}
